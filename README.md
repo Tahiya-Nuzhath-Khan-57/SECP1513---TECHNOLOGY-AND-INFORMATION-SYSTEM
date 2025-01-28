@@ -1,7 +1,7 @@
 # SECP1513-16-TECHNOLOGY-AND-INFORMATION-SYSTEM
 # Tahiya Nuzhath Khan
 
-![Profile Picture](profile.jpg)
+![Profile Picture](MyPic.jpg)
 
 
 #About Me
