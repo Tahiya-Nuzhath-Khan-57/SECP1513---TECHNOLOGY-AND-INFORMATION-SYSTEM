@@ -28,8 +28,10 @@ Education:
 Bachelor’s Degree in Software Engineering, Universiti Teknologi Malaysia (UTM)
 Expected Graduation: 2028
 
+
 Position:
 Software Engineering Student at Universiti Teknologi Malaysia
+
 
 Skills:
 -Programming: C++, HTML
