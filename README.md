@@ -17,7 +17,7 @@ As a Software Engineering student at UTM, I focus on software development and pr
 
 ##Core Information
 
-Education: Software Engineering, UTM (Expected Graduation: 2028)
-Position: Software Engineering Student
-Skills: C++, HTML, MySQL, Git, Excel, Word, Canva, Figma
+~Education: Software Engineering, UTM (Expected Graduation: 2028)
+~Position: Software Engineering Student
+~Skills: C++, HTML, MySQL, Git, Excel, Word, Canva, Figma
  
