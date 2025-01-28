@@ -22,3 +22,18 @@ I am Tahiya Nuzhath Khan, a Software Engineering student at Universiti Teknologi
 With a commitment to lifelong learning and collaboration, I aim to contribute to impactful projects that solve real-world problems and create value for society. I thrive in dynamic environments where I can grow, adapt, and make a difference in shaping the future of technology.
 
 
+#Core Information
+
+Education:
+Bachelor’s Degree in Software Engineering, Universiti Teknologi Malaysia (UTM)
+Expected Graduation: 2028
+
+Position:
+Software Engineering Student at Universiti Teknologi Malaysia
+
+Skills:
+Programming: C++, HTML
+Database Management: MySQL
+Version Control: Git
+Productivity Tools: Microsoft Excel, Word
+Design Tools: Canva, Figma
