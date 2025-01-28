@@ -21,3 +21,15 @@ As a Software Engineering student at UTM, I focus on software development and pr
 ~Position: Software Engineering Student
 ~Skills: C++, HTML, MySQL, Git, Excel, Word, Canva, Figma
  
+##Courses
+
+-OOP (C++): Core OOP concepts (encapsulation, inheritance, polymorphism)
+-Database Management: Hands-on experience with MySQL
+-Web Development: Front-end web technologies (HTML, CSS)
+-Software Engineering: SDLC and Agile methodologies
+
+##Certifications
+
+-Microsoft Excel: Advanced proficiency
+-Git/GitHub: Version control and collaboration
+-UI/UX Design (Figma): UI/UX fundamentals
