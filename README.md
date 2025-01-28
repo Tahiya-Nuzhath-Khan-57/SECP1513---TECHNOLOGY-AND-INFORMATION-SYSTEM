@@ -32,12 +32,8 @@ Position:
 Software Engineering Student at Universiti Teknologi Malaysia
 
 Skills:
-Programming: C++, HTML
-
-Database Management: MySQL
-
-Version Control: Git
-
-Productivity Tools: Microsoft Excel, Word
-
-Design Tools: Canva, Figma
+-Programming: C++, HTML
+-Database Management: MySQL
+-Version Control: Git
+-Productivity Tools: Microsoft Excel, Word
+-Design Tools: Canva, Figma
